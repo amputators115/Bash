@@ -117,3 +117,5 @@ cp -R folder ~/Desktop
 
 Переименовать папку mv oldfilename newfilename
 
+_____
+
