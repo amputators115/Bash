@@ -11,7 +11,6 @@ git config user.email
 
 Установите / измените адрес электронной почты
 git config user.email "your@email.com"
-
 Список / просмотреть все настройки
 git config --list для выхода затем нажать ‘q’
 
@@ -223,3 +222,7 @@ git push origin :branch-name - Удалить бранч из репозитор
 git reset --hard d8578edf8458ce06fbc5bb76a58c5ca4a58c5ca4 - Откатиться к конкретному коммиту и удалить последующие (хэш смотрим в «git log»)
 git push -f - залить на сервер измененные коммиты
 git clean -f - Удаление untracked files
+
+_____
+
+
