@@ -1,4 +1,4 @@
-## КОМАНДНАЯ СТРОКА
+## Bash
 
 brew upgrade python // обновление пайтон 
 brew upgrade python3
